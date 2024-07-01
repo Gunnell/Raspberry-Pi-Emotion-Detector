@@ -49,4 +49,12 @@ Open a terminal and run:
 
 ```sh
 sudo apt-get update
-sudo apt-get upgrade
+sudo apt-get upgrade 
+```
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
